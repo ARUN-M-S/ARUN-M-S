@@ -35,5 +35,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-m-s&show_icons=true&locale=en&layout=compact" alt="arun-m-s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-m-s&show_icons=true&locale=en" alt="arun-m-s" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-m-s&" alt="arun-m-s" /></p>
