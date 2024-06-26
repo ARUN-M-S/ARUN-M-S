@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arun-m-s.github.io/portfoilio2/](https://arun-m-s.github.io/portfoilio2/)
 
-- 💬 Ask me about **Nodejs,JavaScript**
+- 💬 Ask me about **Nodejs,JavaScript,Reactjs**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arun-ms-7395a423a/**
 
