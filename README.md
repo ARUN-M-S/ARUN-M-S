@@ -36,5 +36,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-m-s&show_icons=true&locale=en" alt="arun-m-s" /></p>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-
+<div align="center" dir="auto">
+  <a href="https://github.com/ijasmoopan/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/img/grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-m-s&" alt="arun-m-s" /></p>
