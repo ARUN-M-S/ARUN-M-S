@@ -7,9 +7,9 @@
 ---
 
 - 🌱 Exploring the depths of **DSA**, **System Design**, and **Backend Architecture**
-- 💡 Building scalable real-time systems with **NestJS**, **PostgreSQL**, **Redis**, and **Kafka**
+- 💡 Building scalable real-time systems with **NestJS**, **PostgreSQL** 
 - 🛠️ Advocating clean code and efficient system design
-- 📈 Aiming for world-class companies: **Meta**, **Google**, **Amazon**
+
 - ✍️ Practicing DSA on **LeetCode** daily – Check pinned repo 📌
 
 ---
@@ -46,7 +46,7 @@
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-m-s&layout=compact&theme=radical" alt="Top Languages" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-m-s&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=arun-m-s&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
