@@ -46,7 +46,7 @@
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-m-s&layout=compact&theme=radical" alt="Top Languages" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=arun-m-s&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-m-s&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
