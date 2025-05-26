@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
+<h1 align="center">Hi 👋, I'm Arun M S</h1>
 
 <p align="center">
   🚀 Passionate Software Developer • 💼 3 Years of Experience • 🧠 Lifelong Learner
